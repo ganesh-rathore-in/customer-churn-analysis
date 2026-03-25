@@ -1,10 +1,10 @@
-# 📊 Customer Churn Analysis
+#  Customer Churn Analysis
 
 This project analyzes customer churn data from a telecom company to uncover key reasons why customers leave and how the business can proactively reduce churn through data-driven insights.
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 | File Name | Description |
 |-----------|-------------|
@@ -13,16 +13,16 @@ This project analyzes customer churn data from a telecom company to uncover key 
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
-- 📈 **EDA (Exploratory Data Analysis)**: Uncovered patterns based on contract type, monthly charges, and customer tenure.
-- 🎨 **Data Visualization**: Created clear and informative charts using `matplotlib` and `seaborn`.
-- 🧠 **Business Insights**: Identified actionable factors contributing to customer churn.
-- 🧼 **Clean Code**: Professionally formatted with markdown commentary and clean section headers.
+-  **EDA (Exploratory Data Analysis)**: Uncovered patterns based on contract type, monthly charges, and customer tenure.
+-  **Data Visualization**: Created clear and informative charts using `matplotlib` and `seaborn`.
+-  **Business Insights**: Identified actionable factors contributing to customer churn.
+-  **Clean Code**: Professionally formatted with markdown commentary and clean section headers.
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Customers with **monthly contracts** churn at higher rates.
 - **Paperless billing** is associated with higher churn.
@@ -30,7 +30,7 @@ This project analyzes customer churn data from a telecom company to uncover key 
 
 ---
 
-## 🧠 Tools Used
+##  Tools Used
 
 - Python
 - Pandas
@@ -41,21 +41,21 @@ This project analyzes customer churn data from a telecom company to uncover key 
 
 ---
 
-## 👏 Acknowledgements
+##  Acknowledgements
 
 Special thanks to **[Ayushi Jain](https://www.linkedin.com/in/ayushi-jain-06)** for mentorship and insightful suggestions during the project.
 
 ---
 
-## 🔗 View Notebook Online
+##  View Notebook Online
 
-- 📘 [View on GitHub](https://github.com/Ghost-cloud-cell/customer-churn-analysis/blob/main/Formatted_Customers_Churn_Analysis.ipynb)
-- 🌐 [View HTML Report](https://github.com/Ghost-cloud-cell/customer-churn-analysis/blob/main/Customers_Churn_Analysis.html)
-- 📎 [View in NBViewer](https://nbviewer.org/github/Ghost-cloud-cell/customer-churn-analysis/blob/main/Formatted_Customers_Churn_Analysis.ipynb)
+-  [View on GitHub](https://github.com/Ghost-cloud-cell/customer-churn-analysis/blob/main/Formatted_Customers_Churn_Analysis.ipynb)
+-  [View HTML Report](https://github.com/Ghost-cloud-cell/customer-churn-analysis/blob/main/Customers_Churn_Analysis.html)
+-  [View in NBViewer](https://nbviewer.org/github/Ghost-cloud-cell/customer-churn-analysis/blob/main/Formatted_Customers_Churn_Analysis.ipynb)
 
 ---
 
-## 📬 Contact
+##  Contact
 
 **Ganesh Singh Rathore**  
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ganesh-singh-rathore-39a3712b9/)  
